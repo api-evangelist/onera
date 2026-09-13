@@ -1,4 +1,4 @@
-aid: onera-acquired-by-lyniate-in-2021
+aid: onera
 deliveryModel:
   model: unknown
   open_source: false
@@ -37,7 +37,7 @@ description: >-
   in this record's slug/name is incorrect harvested metadata; the verified
   acquirer is ToolsGroup (2022). The company no longer operates a standalone
   public developer portal or API surface.
-url: https://raw.githubusercontent.com/api-evangelist/onera-acquired-by-lyniate-in-2021/refs/heads/main/apis.yml
+url: https://raw.githubusercontent.com/api-evangelist/onera/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
 x-backed-by:
